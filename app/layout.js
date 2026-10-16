@@ -3,7 +3,7 @@ import Header from "../components/Header";
 import Footer from "../components/Footer";
 
 export const metadata = {
-  title: "SkyCast â€” Simple Weather",
+  title: "SkyCast | Simple Weather",
   description: "A responsive weather dashboard powered by Open-Meteo.",
 };
 
